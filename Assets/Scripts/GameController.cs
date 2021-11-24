@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
-    public int timeToDead = 10;
+    public int timeToDead = 20;
     private float prevTime = 0f;
     
     public bool startTimer = true;
